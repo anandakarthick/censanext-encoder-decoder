@@ -1,0 +1,21 @@
+{
+    "name": "censanext/encoder-decoder",
+    "description": "encode and decode",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+             "censanext_encoder_decoder": "src/"
+         }
+    },
+    "authors": [
+        {
+            "name": "AnandaKarthick",
+            "email": "ananda.subburaj@censanext.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
